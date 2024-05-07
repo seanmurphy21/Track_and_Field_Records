@@ -1,0 +1,159 @@
+Category,Gender,Nationality,Record_Count
+Hurdles,Female,AUS,1
+Hurdles,Female,BAH,2
+Hurdles,Female,FRA,1
+Hurdles,Female,GDR,1
+Hurdles,Female,ITA,1
+Hurdles,Female,JAM,1
+Hurdles,Female,NED,1
+Hurdles,Female,NGR,1
+Hurdles,Female,NOR,1
+Hurdles,Female,RUS,3
+Hurdles,Female,SWE,2
+Hurdles,Female,USA,5
+Hurdles,Male,CAN,1
+Hurdles,Male,DOM,1
+Hurdles,Male,GBR,1
+Hurdles,Male,ITA,1
+Hurdles,Male,NOR,3
+Hurdles,Male,RSA,1
+Hurdles,Male,USA,13
+Jumping,Female,BUL,1
+Jumping,Female,GDR,1
+Jumping,Female,RUS,1
+Jumping,Female,SWE,1
+Jumping,Female,URS,1
+Jumping,Female,USA,2
+Jumping,Female,VEN,2
+Jumping,Male,BUR,1
+Jumping,Male,CUB,2
+Jumping,Male,GBR,1
+Jumping,Male,SWE,3
+Jumping,Male,USA,4
+Long Distance,Female,CHN,1
+Long Distance,Female,CZE,1
+Long Distance,Female,ETH,18
+Long Distance,Female,JPN,1
+Long Distance,Female,KEN,27
+Long Distance,Female,NED,1
+Long Distance,Female,POL,1
+Long Distance,Female,RUS,2
+Long Distance,Female,USA,7
+Long Distance,Male,BEL,1
+Long Distance,Male,ETH,4
+Long Distance,Male,FIN,1
+Long Distance,Male,GBR,4
+Long Distance,Male,KEN,13
+Long Distance,Male,LTU,7
+Long Distance,Male,NOR,2
+Long Distance,Male,UGA,5
+Long Distance,Male,URS,1
+Long Distance,Male,USA,2
+Middle Distance,Female,BDI,1
+Middle Distance,Female,ETH,5
+Middle Distance,Female,KEN,4
+Middle Distance,Female,MOZ,1
+Middle Distance,Female,RUS,1
+Middle Distance,Female,SLO,2
+Middle Distance,Female,TCH,1
+Middle Distance,Female,USA,2
+Middle Distance,Male,BAR,1
+Middle Distance,Male,CAN,1
+Middle Distance,Male,DEN,1
+Middle Distance,Male,DJI,1
+Middle Distance,Male,ETH,3
+Middle Distance,Male,FRA,1
+Middle Distance,Male,KEN,5
+Middle Distance,Male,MAR,3
+Middle Distance,Male,NOR,2
+Middle Distance,Male,USA,3
+Multisport Events,Female,BEL,1
+Multisport Events,Female,FIN,1
+Multisport Events,Female,LTU,1
+Multisport Events,Female,USA,1
+Multisport Events,Male,FRA,1
+Multisport Events,Male,USA,2
+Relay,Female,CHN,1
+Relay,Female,ETH,1
+Relay,Female,GER,1
+Relay,Female,JAM,3
+Relay,Female,RUS,3
+Relay,Female,URS,2
+Relay,Female,USA,11
+Relay,Male,GBR,1
+Relay,Male,IRL,1
+Relay,Male,JAM,4
+Relay,Male,KEN,3
+Relay,Male,USA,12
+Sprint,Female,BAH,4
+Sprint,Female,GBR,1
+Sprint,Female,GDR,4
+Sprint,Female,JAM,5
+Sprint,Female,NED,4
+Sprint,Female,RSA,1
+Sprint,Female,RUS,4
+Sprint,Female,TCH,1
+Sprint,Female,USA,9
+Sprint,Male,BAH,1
+Sprint,Male,BAR,1
+Sprint,Male,BOT,1
+Sprint,Male,CAN,7
+Sprint,Male,CHN,1
+Sprint,Male,FRG,1
+Sprint,Male,JAM,7
+Sprint,Male,KEN,1
+Sprint,Male,MAD,1
+Sprint,Male,NAM,1
+Sprint,Male,NED,1
+Sprint,Male,QAT,1
+Sprint,Male,RSA,1
+Sprint,Male,USA,30
+Throwing,Female,CZE,1
+Throwing,Female,FIN,1
+Throwing,Female,GDR,1
+Throwing,Female,GER,1
+Throwing,Female,POL,1
+Throwing,Female,SWE,1
+Throwing,Female,TCH,1
+Throwing,Female,URS,1
+Throwing,Female,USA,1
+Throwing,Male,CZE,1
+Throwing,Male,EST,1
+Throwing,Male,FIN,1
+Throwing,Male,GDR,1
+Throwing,Male,LTU,1
+Throwing,Male,URS,1
+Throwing,Male,USA,4
+Walking,Female,BLR,1
+Walking,Female,CHN,3
+Walking,Female,ECU,1
+Walking,Female,ESP,1
+Walking,Female,IRL,1
+Walking,Female,ITA,3
+Walking,Female,NOR,1
+Walking,Female,ROU,1
+Walking,Female,RUS,6
+Walking,Female,URS,2
+Walking,Female,USA,1
+Walking,Male,AUS,1
+Walking,Male,CHN,1
+Walking,Male,FRA,2
+Walking,Male,GBR,2
+Walking,Male,GDR,1
+Walking,Male,ISR,1
+Walking,Male,ITA,3
+Walking,Male,JPN,2
+Walking,Male,LTU,1
+Walking,Male,MEX,1
+Walking,Male,POL,1
+Walking,Male,RUS,3
+Walking,Male,TUN,1
+Walking,Male,URS,2
+Relay,Male,ATG,1
+Relay,Male,NGR,1
+Relay,Male,DEN,1
+Relay,Male,DOM,1
+Relay,Male,AUS,1
+Relay,Female,GBR,2
+Relay,Female,IRL,1
+Relay,Female,LCA,1
