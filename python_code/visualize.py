@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed May  1 17:20:26 2024
 
-@author: seanm
-"""
 
 
 
