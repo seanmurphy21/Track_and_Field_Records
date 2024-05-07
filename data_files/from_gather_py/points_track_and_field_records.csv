@@ -1,0 +1,8 @@
+Event,Performance (points),Athlete,Nationality,Date,Meeting,Location City,Location Country,Gender,Setting,Official,Category
+Decathlon,9126,Kevin Mayer,FRA,2018-09-16,Décastar,Talence,FRA,Male,Outdoor,True,Multisport Events
+Heptathlon,7291,Jackie Joyner-Kersee,USA,1988-09-24,Olympic Games,Seoul,KOR,Female,Outdoor,True,Multisport Events
+Decathlon,8358,Austra Skujytė,LTU,2005-04-15,Audrey Walton Combined Events,Columbia,USA,Female,Outdoor,True,Multisport Events
+Heptathlon sh,6645,Ashton Eaton,USA,2012-03-10,World Championships,Istanbul,TUR,Male,Indoor,True,Multisport Events
+Pentathlon sh,5055,Nafi Thiam,BEL,2023-03-03,European Championships,Istanbul,TUR,Female,Indoor,True,Multisport Events
+Icosathlon,14571,Joseph Detmer,USA,2010-09-25,World Championships,"Lynchburg, Virginia",USA,Male,Outdoor,False,Multisport Events
+Tetradecathlon,10798,Milla Kelo,FIN,2002-09-08,,Turku,FIN,Female,Outdoor,False,Multisport Events
