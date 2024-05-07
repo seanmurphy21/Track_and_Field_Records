@@ -1,0 +1,400 @@
+Event,Performance,Athlete,Nationality,Date,Meeting,Location City,Location Country,Gender,Setting,Official,Category,Decade,Years_Lasted
+100 m,9.58,Usain Bolt,JAM,2009-08-16,World Championships,Berlin,GER,Male,Outdoor,True,Sprint,2000s,15.0
+200 m,19.19,Usain Bolt,JAM,2009-08-20,World Championships,Berlin,GER,Male,Outdoor,True,Sprint,2000s,15.0
+400 m,43.03,Wayde van Niekerk,RSA,2016-08-14,Olympic Games,Rio de Janeiro,BRA,Male,Outdoor,True,Sprint,2010s,8.0
+800 m,1:40.91,David Rudisha,KEN,2012-08-09,Olympic Games,London,GBR,Male,Outdoor,True,Middle Distance,2010s,12.0
+1000 m,2:11.96,Noah Ngeny,KEN,1999-09-05,Rieti Meeting,Rieti,ITA,Male,Outdoor,True,Middle Distance,1990s,25.0
+1500 m,3:26.00,Hicham El Guerrouj,MAR,1998-07-14,Golden Gala,Rome,ITA,Male,Outdoor,True,Middle Distance,1990s,26.0
+Mile,3:43.13,Hicham El Guerrouj,MAR,1999-07-07,Golden Gala,Rome,ITA,Male,Outdoor,True,Middle Distance,1990s,25.0
+Mile (Road),3:56.13,Hobbs Kessler,USA,2023-10-01,World Road Running Championships,Riga,LAT,Male,Outdoor,True,Middle Distance,2020s,1.0
+Mile (Road),3:54.56,Emmanuel Wanyonyi,KEN,2024-04-27,Adizero: Road to Records,Herzogenaurach,GER,Male,Outdoor,True,Middle Distance,2020s,0.0
+2000 m,4:43.13,Jakob Ingebrigtsen,NOR,2023-09-08,Memorial van Damme,Brussels,BEL,Male,Outdoor,True,Middle Distance,2020s,1.0
+3000 m,7:20.67,Daniel Komen,KEN,1996-09-01,Rieti Meeting,Rieti,ITA,Male,Outdoor,True,Long Distance,1990s,28.0
+5000 m,12:35.36,Joshua Cheptegei,UGA,2020-08-14,Herculis,Monaco,MON,Male,Outdoor,True,Long Distance,2020s,4.0
+5 km (road),12:49.00,Berihu Aregawi,ETH,2021-12-31,Cursa dels Nassos,Barcelona,ESP,Male,Outdoor,True,Long Distance,2020s,2.0
+"10,000 m",26:11.00,Joshua Cheptegei,UGA,2020-10-07,,Valencia,ESP,Male,Outdoor,True,Long Distance,2020s,4.0
+10 km (road),26:24.00,Rhonex Kipruto,KEN,2020-01-12,10K Valencia Ibercaja,Valencia,ESP,Male,Outdoor,True,Long Distance,2020s,4.0
+Half marathon,57:31.00,Jacob Kiplimo,UGA,2021-11-21,EDP Lisbon Half Marathon,Lisbon,POR,Male,Outdoor,True,Long Distance,2020s,2.0
+One hour (track),"21,330 m",Mo Farah,GBR,2020-09-04,Diamond League,Brussels,BEL,Male,Outdoor,True,Long Distance,2020s,4.0
+Marathon[a],2:00:35,Kelvin Kiptum,KEN,2023-10-08,Chicago Marathon,Chicago,USA,Male,Outdoor,True,Long Distance,2020s,1.0
+Marathon[a],1:59:40.2,Eliud Kipchoge,KEN,2019-10-12,Ineos 1:59 Challenge,Vienna,AUT,Male,Outdoor,True,Long Distance,2010s,5.0
+50 km (road),2:38:43.00,CJ Albertson,USA,2022-10-08,Ruth Anderson Memorial Endurance Run,San Francisco,USA,Male,Outdoor,True,Long Distance,2020s,2.0
+100 km (road),6:05:35.00,Aleksandr Sorokin,LTU,2023-05-14,World's Fastest Run,Vilnius,LTU,Male,Outdoor,True,Long Distance,2020s,1.0
+110 m hurdles,12.80,Aries Merritt,USA,2012-09-07,Memorial Van Damme,Brussels,BEL,Male,Outdoor,True,Hurdles,2010s,12.0
+400 m hurdles,45.94,Karsten Warholm,NOR,2021-08-03,Olympic Games,Tokyo,JPN,Male,Outdoor,True,Hurdles,2020s,3.0
+3000 m steeplechase,7:52.11,Lamecha Girma,ETH,2023-06-09,Meeting de Paris,Paris,FRA,Male,Outdoor,True,Long Distance,2020s,1.0
+High jump,2.45 m,Javier Sotomayor,CUB,1993-07-27,Gran Premio Diputación,Salamanca,ESP,Male,Outdoor,True,Jumping,1990s,31.0
+Pole vault,6.23 m,Armand Duplantis,SWE,2023-09-17,Prefontaine Classic,Eugene,USA,Male,Outdoor,True,Jumping,2020s,1.0
+Pole vault,6.24 m,Armand Duplantis,SWE,2024-04-20,Xiamen Diamond League,Xiamen,CHN,Male,Outdoor,True,Jumping,2020s,0.0
+Long jump,8.95 m,Mike Powell,USA,1991-08-30,World Championships,Tokyo,JPN,Male,Outdoor,True,Jumping,1990s,33.0
+Triple jump,18.29 m,Jonathan Edwards,GBR,1995-08-07,World Championships,Gothenburg,SWE,Male,Outdoor,True,Jumping,1990s,29.0
+Shot put,23.56 m,Ryan Crouser,USA,2023-05-27,USATF LA Grand Prix,Los Angeles,USA,Male,Outdoor,True,Throwing,2020s,1.0
+Discus throw,74.08 m,Jürgen Schult,GDR,1986-06-06,,Neubrandenburg,GDR,Male,Outdoor,True,Throwing,1980s,38.0
+Discus throw,74.35 m,Mykolas Alekna,LTU,2024-04-14,Oklahoma Throws Series,Ramona,USA,Male,Outdoor,True,Throwing,2020s,0.0
+Hammer throw,86.74 m,Yuriy Sedykh,URS,1986-08-30,European Championships,Stuttgart,FRG,Male,Outdoor,True,Throwing,1980s,38.0
+Javelin throw,98.48 m,Jan Železný,CZE,1996-05-25,,Jena,GER,Male,Outdoor,True,Throwing,1990s,28.0
+Decathlon,9126 pts,Kevin Mayer,FRA,2018-09-16,Décastar,Talence,FRA,Male,Outdoor,True,Multisport Events,2010s,6.0
+"20,000 m walk (track)",1:17:25.60,Bernardo Segura,MEX,1994-05-07,,Bergen,NOR,Male,Outdoor,True,Walking,1990s,30.0
+20 km walk (road),1:16:36.00,Yusuke Suzuki,JPN,2015-03-15,Asian Race Walking Championships,Nomi,JPN,Male,Outdoor,True,Walking,2010s,9.0
+2 hours walk (track),"29,572 m",Maurizio Damilano,ITA,1992-10-03,,Cuneo,ITA,Male,Outdoor,True,Walking,1990s,32.0
+"30,000 m walk (track)",2:01:44.10,Maurizio Damilano,ITA,1992-10-03,,Cuneo,ITA,Male,Outdoor,True,Walking,1990s,32.0
+35 km walk (road),2:22:00.00,,,,,,,Male,Outdoor,True,Walking,,
+"50,000 m walk (track)",3:35:27.20,Yohann Diniz,FRA,2011-03-12,,Reims,FRA,Male,Outdoor,True,Walking,2010s,13.0
+50 km walk (road),3:32:33.00,Yohann Diniz,FRA,2014-08-15,European Championships,Zürich,SUI,Male,Outdoor,True,Walking,2010s,10.0
+4 × 100 m relay,36.84,"Nesta Carter, Michael Frater, Yohan Blake, Usain Bolt",JAM,2012-08-11,Olympic Games,London,GBR,Male,Outdoor,True,Relay,2010s,12.0
+4 × 200 m relay,1:18.63,"Nickel Ashmeade, Warren Weir, Jermaine Brown, Yohan Blake",JAM,2014-05-24,World Relays,Nassau,BAH,Male,Outdoor,True,Relay,2010s,10.0
+4 × 400 m relay,2:54.29,"Andrew Valmon, Quincy Watts, Butch Reynolds, Michael Johnson",USA,1993-08-22,World Championships,Stuttgart,GER,Male,Outdoor,True,Relay,1990s,31.0
+4 × 800 m relay,7:02.43,"Joseph Mutua, William Yiampoy, Ismael Kombich, Wilfred Bungei",KEN,2006-08-25,Memorial Van Damme,Brussels,BEL,Male,Outdoor,True,Relay,2000s,18.0
+Distance medley relay,9:15.50,"Kyle Merber, Brycen Spratling, Brandon Johnson, Ben Blankenship",USA,2015-05-03,World Relays,Nassau,BAH,Male,Outdoor,True,Relay,2010s,9.0
+Distance medley relay,9:14.58,"Brannon Kidder, Brandon Miller, Isaiah Harris, Henry Wynne",USA,2024-04-19,Oregon Relays,Eugene,USA,Male,Outdoor,True,Relay,2020s,0.0
+4 × 1500 m relay,14:22.22,"Collins Cheboi, Silas Kiplagat, James Kiplagat Magut, Asbel Kiprop",KEN,2014-05-25,World Relays,Nassau,BAH,Male,Outdoor,True,Relay,2010s,10.0
+Road relay42.195 km,1:57:06.00,"Josephat Ndambiri, Martin Mathathi, Daniel Muchunu Mwangi, Mekubo Mogusu, Onesmus Nyerre, John Kariuki",KEN,2005-11-23,Chiba Ekiden,Chiba,JPN,Male,Outdoor,True,Relay,2000s,18.0
+100 m,10.49,Florence Griffith Joyner,USA,1988-07-16,US Olympic Trials,Indianapolis,USA,Female,Outdoor,True,Sprint,1980s,36.0
+200 m,21.34,Florence Griffith Joyner,USA,1988-09-29,Olympic Games,Seoul,KOR,Female,Outdoor,True,Sprint,1980s,36.0
+400 m,47.60,Marita Koch,GDR,1985-10-06,World Cup,Canberra,AUS,Female,Outdoor,True,Sprint,1980s,39.0
+800 m,1:53.28,Jarmila Kratochvílová,TCH,1983-07-26,,Munich,FRG,Female,Outdoor,True,Middle Distance,1980s,41.0
+1000 m,2:28.98,Svetlana Masterkova,RUS,1996-08-23,Memorial Van Damme,Brussels,BEL,Female,Outdoor,True,Middle Distance,1990s,28.0
+1500 m,3:49.11,Faith Kipyegon,KEN,2023-06-02,Golden Gala,Florence,ITA,Female,Outdoor,True,Middle Distance,2020s,1.0
+Mile,4:07.64,Faith Kipyegon,KEN,2023-07-21,Herculis,Monaco,MON,Female,Outdoor,True,Middle Distance,2020s,1.0
+Mile (Road),4:20.98,Diribe Welteji,ETH,2023-10-01,World Road Running Championships,Riga,LAT,Female,Outdoor,True,Middle Distance,2020s,1.0
+2000 m,5:21.56,Francine Niyonsaba,BDI,2021-09-14,Hanžeković Memorial,Zagreb,CRO,Female,Outdoor,True,Middle Distance,2020s,3.0
+3000 m,8:06.11,Wang Junxia,CHN,1993-09-13,Chinese National Games,Beijing,CHN,Female,Outdoor,True,Long Distance,1990s,31.0
+5000 m,14:00.21,Gudaf Tsegay,ETH,2023-09-17,Prefontaine Classic,Eugene,USA,Female,Outdoor,True,Long Distance,2020s,1.0
+5 km (road),14:29.00,Senbere Teferi,ETH,2021-09-12,5 km Adizero Road to Records,Herzogenaurach,GER,Female,Outdoor,True,Long Distance,2020s,3.0
+5 km (road),14:13.00,Beatrice Chebet,KEN,2023-12-31,Cursa dels Nassos,Barcelona,ESP,Female,Outdoor,True,Long Distance,2020s,0.0
+5 km (road),14:19.00,Ejgayehu Taye,ETH,2021-12-31,Cursa dels Nassos,Barcelona,ESP,Female,Outdoor,True,Long Distance,2020s,2.0
+5 km (road),14:13.00,Agnes Ngetich,KEN,2024-01-14,10K Valencia Ibercaja,Valencia,ESP,Female,Outdoor,True,Long Distance,2020s,0.0
+"10,000 m",29:01.03,Letesenbet Gidey,ETH,2021-06-08,Ethiopian Olympic Trials,Hengelo,NED,Female,Outdoor,True,Long Distance,2020s,3.0
+10 km (road),,,,,,,,Female,Outdoor,True,Long Distance,,
+10 km (road),28:46.00,Agnes Ngetich,KEN,2024-01-14,10K Valencia Ibercaja,Valencia,ESP,Female,Outdoor,True,Long Distance,2020s,0.0
+10 km (road),30:01.00,Agnes Tirop,KEN,2021-09-12,Adizero Road to Records,Herzogenaurach,GER,Female,Outdoor,True,Long Distance,2020s,3.0
+10 km (road),29:26.00,Agnes Ngetich,KEN,2023-11-18,Urban Trail de Lille,Lille,FRA,Female,Outdoor,True,Long Distance,2020s,0.0
+10 km (road),29:24.00[k],Agnes Ngetich,KEN,2023-09-10,Brașov Running Festival,Brașov,ROM,Female,Outdoor,True,Long Distance,2020s,1.0
+10 km (road),29:14.00,Yalemzerf Yehualaw,ETH,2022-02-27,World Athletics Label road race,Castellón de la Plana,ESP,Female,Outdoor,True,Long Distance,2020s,2.0
+One hour (track),"18,930 m",Sifan Hassan,NED,2020-09-04,Diamond League,Brussels,BEL,Female,Outdoor,True,Long Distance,2020s,4.0
+Half marathon,1:02:52,Letesenbet Gidey,ETH,2021-10-24,Valencia Half Marathon,Valencia,ESP,Female,Outdoor,True,Long Distance,2020s,3.0
+Half marathon,1:05:16,Peres Jepchirchir,KEN,2020-10-17,World Half Marathon Championships,Gdynia,POL,Female,Outdoor,True,Long Distance,2020s,4.0
+Marathon[a],2:14:04.00,Brigid Kosgei,KEN,2019-10-13,Chicago Marathon,Chicago,USA,Female,Outdoor,True,Long Distance,2010s,5.0
+Marathon[a],2:11:53.00,Tigst Assefa,ETH,2023-09-24,Berlin Marathon,Berlin,GER,Female,Outdoor,True,Long Distance,2020s,1.0
+Marathon[a],2:17:01.00,Mary Jepkosgei Keitany,KEN,2017-04-23,London Marathon,London,GBR,Female,Outdoor,True,Long Distance,2010s,7.0
+Marathon[a],2:16:16.00,Peres Jepchirchir,KEN,2024-04-21,London Marathon,London,GBR,Female,Outdoor,True,Long Distance,2020s,0.0
+50 km (road),2:59:54.00,Desiree Linden,USA,2021-04-13,Brooks Running 50 km & Marathon,Dorena Lake,USA,Female,Outdoor,True,Long Distance,2020s,3.0
+50 km (road),3:00:30.00,Emane Seifu Hayile,ETH,2023-02-26,Nedbank Runified Breaking Barriers Ultramarathon,Gqeberha,RSA,Female,Outdoor,True,Long Distance,2020s,1.0
+100 km (road),6:33:11.00,Tomoe Abe,JPN,2000-06-25,Lake Saroma Ultramarathon,Yūbetsu,JPN,Female,Outdoor,True,Long Distance,2000s,24.0
+100 m hurdles,12.12,Tobi Amusan,NGR,2022-07-24,World Championships,Eugene,USA,Female,Outdoor,True,Hurdles,2020s,2.0
+400 m hurdles,50.68,Sydney McLaughlin,USA,2022-07-22,World Championships,Eugene,USA,Female,Outdoor,True,Hurdles,2020s,2.0
+3000 m steeplechase,8:44.32,Beatrice Chepkoech,KEN,2018-07-20,Herculis,Monaco,MON,Female,Outdoor,True,Long Distance,2010s,6.0
+High jump,2.09 m,Stefka Kostadinova,BUL,1987-08-30,World Championships,Rome,ITA,Female,Outdoor,True,Jumping,1980s,37.0
+Pole vault,5.06 m,Yelena Isinbayeva,RUS,2009-08-28,Weltklasse Zürich,Zürich,SUI,Female,Outdoor,True,Jumping,2000s,15.0
+Long jump,7.52 m,Galina Chistyakova,URS,1988-06-11,Brothers Znamensky Memorial,Leningrad,URS,Female,Outdoor,True,Jumping,1980s,36.0
+Triple jump,15.74 m,Yulimar Rojas,VEN,2022-03-20,World Championships,Belgrade,SRB,Female,Outdoor,True,Jumping,2020s,2.0
+Shot put,22.63 m,Natalya Lisovskaya,URS,1987-06-07,Brothers Znamensky Memorial,Moscow,URS,Female,Outdoor,True,Throwing,1980s,37.0
+Discus throw,76.80 m,Gabriele Reinsch,GDR,1988-07-09,,Neubrandenburg,GDR,Female,Outdoor,True,Throwing,1980s,36.0
+Hammer throw,82.98 m,Anita Włodarczyk,POL,2016-08-28,Kamila Skolimowska Memorial,Warsaw,POL,Female,Outdoor,True,Throwing,2010s,8.0
+Javelin throw,72.28 m,Barbora Špotáková,CZE,2008-09-13,World Athletics Final,Stuttgart,GER,Female,Outdoor,True,Throwing,2000s,16.0
+Heptathlon,7291 pts,Jackie Joyner-Kersee,USA,1988-09-24,Olympic Games,Seoul,KOR,Female,Outdoor,True,Multisport Events,1980s,36.0
+Decathlon,8358 pts,Austra Skujytė,LTU,2005-04-15,Audrey Walton Combined Events,Columbia,USA,Female,Outdoor,True,Multisport Events,2000s,19.0
+"10,000 m walk (track)",41:56.23,Nadezhda Ryashkina,URS,1990-07-24,Goodwill Games,Seattle,USA,Female,Outdoor,True,Walking,1990s,34.0
+"10,000 m walk (track)",41:37.90,Gao Hongmiao,CHN,1994-04-07,,Beijing,CHN,Female,Outdoor,True,Walking,1990s,30.0
+"20,000 m walk (track)",1:26:52.30,Olimpiada Ivanova,RUS,2001-09-06,,Brisbane,AUS,Female,Outdoor,True,Walking,2000s,23.0
+20 km walk (road),1:23:49,Yang Jiayu,CHN,2021-03-20,Chinese Race Walking Championships,Huangshan,CHN,Female,Outdoor,True,Walking,2020s,3.0
+20 km walk (road),1:23:39,Elena Lashmanova,RUS,2018-06-09,Russian Race Walking Championships,Cheboksary,RUS,Female,Outdoor,True,Walking,2010s,6.0
+35 km walk (road),2:37:15,María Pérez,ESP,2023-05-21,European Race Walking Team Championships,Poděbrady,Czech Republic,Female,Outdoor,True,Walking,2020s,1.0
+"50,000 m walk (track)",4:29:45.560,Katie Burnett,USA,2019-07-13,National Invitational Racewalks,San Diego,USA,Female,Outdoor,True,Walking,2010s,5.0
+50 km walk (road),3:59:15,Liu Hong,CHN,2019-03-09,Chinese Race Walk Grand Prix,Huangshan,CHN,Female,Outdoor,True,Walking,2010s,5.0
+50 km walk (road),3:57:08,Klavdiya Afanasyeva,RUS,2019-06-15,Russian Race Walking Championships,Cheboksary,RUS,Female,Outdoor,True,Walking,2010s,5.0
+4 × 100 m relay,40.82,"Tianna Madison, Allyson Felix, Bianca Knight, Carmelita Jeter",USA,2012-08-10,Olympic Games,London,GBR,Female,Outdoor,True,Relay,2010s,12.0
+4 × 200 m relay,1:27.46,"LaTasha Jenkins, LaTasha Colander-Richardson, Nanceen Perry, Marion Jones",USA,2000-04-29,Penn Relays,Philadelphia,USA,Female,Outdoor,True,Relay,2000s,24.0
+4 × 200 m relay,1:27.05,"Dina Asher-Smith, Rhasidat Adeleke, Lanae-Tava Thomas, Julien Alfred","GBR, IRL, JAM, LCA",2024-03-30,Texas Relays,Austin,USA,Female,Outdoor,True,Relay,2020s,0.0
+4 × 400 m relay,3:15.17,"Tatyana Ledovskaya, Olga Nazarova, Mariya Pinigina, Olga Bryzgina",URS,1988-10-01,Olympic Games,Seoul,KOR,Female,Outdoor,True,Relay,1980s,36.0
+4 × 800 m relay,7:50.17,"Irina Podyalovskaya, Nadezhda Olizarenko, Lyubov Gurina, Lyudmila Borisova",URS,1984-08-05,,Moscow,URS,Female,Outdoor,True,Relay,1980s,40.0
+Distance medley relay,10:36.50,"Treniere Moser, Sanya Richards-Ross, Ajeé Wilson, Shannon Rowbury",USA,2015-05-02,A Night at the TRACK Presented by New Balance Running,Nassau,BAH,Female,Outdoor,True,Relay,2010s,9.0
+Distance medley relay,10:33.85,"Heather McLean, Kendall Ellis, Roisin Willis, Elle Purrier St. Pierre",USA,2022-04-15,A Night at the TRACKPresented by New Balance Running,Boston,USA,Female,Outdoor,True,Relay,2020s,2.0
+4 × 1500 m relay,16:27.02,"Colleen Quigley, Elise Cranny, Karissa Schweizer, Shelby Houlihan",USA,2020-07-31,Bowerman TC Intrasquad Meet IV,Portland,USA,Female,Outdoor,True,Relay,2020s,4.0
+Road relay42.195 km,2:11:41.00,"Jiang Bo, Dong Yanmei, Zhao Fengting, Ma Zaijie, Lan Lixin, Li Na",CHN,1998-02-28,,Beijing,CHN,Female,Outdoor,True,Relay,1990s,26.0
+Road relay42.195 km,2:16:04.00,"Genet Gebregiogios, Birhane Adere, Ayelech Worku, Gete Wami, Getenesh Urge, Luchia Yischak",ETH,1996-04-13,,Copenhagen,DEN,Female,Outdoor,True,Relay,1990s,28.0
+50 m,5.55,Ben Johnson,CAN,1987-01-31,,Ottawa,CAN,Male,Indoor,True,Sprint,1980s,37.0
+50 m,5.56,Donovan Bailey,CAN,1996-02-09,Bill Cosby Invitational,Reno,USA,Male,Indoor,True,Sprint,1990s,28.0
+50 m,5.56,Maurice Greene,USA,1999-02-13,,Los Angeles,USA,Male,Indoor,True,Sprint,1990s,25.0
+60 m,6.34,Christian Coleman,USA,2018-02-18,USA Championships,Albuquerque,USA,Male,Indoor,True,Sprint,2010s,6.0
+200 m sh,19.92,Frankie Fredericks,NAM,1996-02-18,Meeting Pas de Calais,Liévin,FRA,Male,Indoor,True,Sprint,1990s,28.0
+400 m sh,44.57,Kerron Clement,USA,2005-03-12,NCAA Division I Men's Indoor Championships,Fayetteville,USA,Male,Indoor,True,Sprint,2000s,19.0
+400 m sh,44.52,Michael Norman,USA,2018-03-10,NCAA Division I Championships,College Station,USA,Male,Indoor,True,Sprint,2010s,6.0
+400 m sh,44.49,Christopher Morales Williams,CAN,2024-02-24,SEC Championships,Fayetteville,USA,Male,Indoor,True,Sprint,2020s,0.0
+800 m sh,1:42.67,Wilson Kipketer,DEN,1997-03-09,World Championships,Paris,FRA,Male,Indoor,True,Middle Distance,1990s,27.0
+1000 m sh,2:14.20,Ayanleh Souleiman,DJI,2016-02-17,Globen Galan,Stockholm,SWE,Male,Indoor,True,Middle Distance,2010s,8.0
+1500 m sh,3:30.60,Jakob Ingebrigtsen,NOR,2022-02-17,Meeting Hauts-de-France Pas-de-Calais,Liévin,FRA,Male,Indoor,True,Middle Distance,2020s,2.0
+Mile sh,3:47.01,Yomif Kejelcha,ETH,2019-03-03,Bruce Lehane Invitational,Boston,USA,Male,Indoor,True,Middle Distance,2010s,5.0
+3000 m sh,7:23.81,Lamecha Girma,ETH,2023-02-15,Meeting Hauts-de-France Pas-de-Calais,Liévin,FRA,Male,Indoor,True,Long Distance,2020s,1.0
+5000 m sh,12:49.60,Kenenisa Bekele,ETH,2004-02-20,Aviva Indoor Grand Prix,Birmingham,GBR,Male,Indoor,True,Long Distance,2000s,20.0
+50 m hurdles,6.25,Mark McKoy,CAN,1986-03-05,,Kobe,JPN,Male,Indoor,True,Hurdles,1980s,38.0
+60 m hurdles,7.29,Grant Holloway,USA,2021-02-24,Villa de Madrid,Madrid,ESP,Male,Indoor,True,Hurdles,2020s,3.0
+60 m hurdles,7.29,Grant Holloway,USA,2022-03-20,World Championships,Belgrade,SRB,Male,Indoor,True,Hurdles,2020s,2.0
+60 m hurdles,7.27,Grant Holloway,USA,2024-02-16,USA Championships,Albuquerque,USA,Male,Indoor,True,Hurdles,2020s,0.0
+High jump,2.43 m,Javier Sotomayor,CUB,1989-03-04,World Championships,Budapest,HUN,Male,Indoor,True,Jumping,1980s,35.0
+Pole vault,6.22 m,Armand Duplantis,SWE,2023-02-25,All Star Perche,Clermont-Ferrand,FRA,Male,Indoor,True,Jumping,2020s,1.0
+Long jump,8.79 m,Carl Lewis,USA,1984-01-27,Millrose Games,New York City,USA,Male,Indoor,True,Jumping,1980s,40.0
+Triple jump,18.07 m,Hugues Fabrice Zango,BUR,2021-01-16,,Aubière,FRA,Male,Indoor,True,Jumping,2020s,3.0
+Shot put,22.82 m,Ryan Crouser,USA,2021-01-24,American Track League,Fayetteville,USA,Male,Indoor,True,Throwing,2020s,3.0
+Heptathlon sh,6645 pts,Ashton Eaton,USA,2012-03-10,World Championships,Istanbul,TUR,Male,Indoor,True,Multisport Events,2010s,12.0
+5000 m walk sh,18:07.08,Mikhail Shchennikov,RUS,1995-02-14,Russian Winter Meeting,Moscow,RUS,Male,Indoor,True,Walking,1990s,29.0
+4 × 200 m relay sh,1:22.11,"Linford Christie, Darren Braithwaite, Ade Mafe, John Regis",GBR,1991-03-03,,Glasgow,GBR,Male,Indoor,True,Relay,1990s,33.0
+4 × 400 m relay sh,3:01.51,"Zach Shinnick, Rai Benjamin, Ricky Morgan Jr., Michael Norman",USA,2019-02-09,Clemson's Tiger Paw Invitational,Clemson,USA,Male,Indoor,True,Relay,2010s,5.0
+4 × 400 m relay sh,3:00.77,"Zach Shinnick, Rai Benjamin, Ricky Morgan Jr.Michael Norman","USA, ATG, USA, USA",2018-03-10,NCAA Division I Championships,College Station,USA,Male,Indoor,True,Relay,2010s,6.0
+4 × 400 m relay sh,3:01.39,"Ilolo Izu, Robert Grant, Devin Dixon, Mylik Kerley",USA,2018-03-10,NCAA Division I Championships,College Station,USA,Male,Indoor,True,Relay,2010s,6.0
+4 × 400 m relay sh,3:01.43,"Kunle Fasasi, Grant Holloway, Chantz Sawyers, Benjamin Lobo Vedel","NGR, USA, JAM, DEN",2018-03-10,NCAA Division I Championships,College Station,USA,Male,Indoor,True,Relay,2010s,6.0
+4 × 800 m relay sh,7:11.30,"Joe McAsey, Kyle Merber, Chris Giesting, Jesse Garn",USA,2018-02-25,BU Last Chance Meet,Boston,USA,Male,Indoor,True,Relay,2010s,6.0
+50 m,5.96,Irina Privalova,RUS,1995-02-09,,Madrid,ESP,Female,Indoor,True,Sprint,1990s,29.0
+60 m,6.92,Irina Privalova,RUS,1993-02-11,,Madrid,ESP,Female,Indoor,True,Sprint,1990s,31.0
+60 m,6.92,Irina Privalova,RUS,1995-02-09,,Madrid,ESP,Female,Indoor,True,Sprint,1990s,29.0
+200 m sh,21.87,Merlene Ottey,JAM,1993-02-13,Meeting Pas de Calais,Liévin,FRA,Female,Indoor,True,Sprint,1990s,31.0
+400 m sh,49.26,Femke Bol,NED,2023-02-19,Dutch Championships,Apeldoorn,NED,Female,Indoor,True,Sprint,2020s,1.0
+400 m sh,49.24,Femke Bol,NED,2024-02-18,Dutch Championships,Apeldoorn,NED,Female,Indoor,True,Sprint,2020s,0.0
+400 m sh,49.17,Femke Bol,NED,2024-03-02,World Championships,Glasgow,GBR,Female,Indoor,True,Sprint,2020s,0.0
+800 m sh,1:55.82,Jolanda Čeplak,SLO,2002-03-03,European Championships,Vienna,AUT,Female,Indoor,True,Middle Distance,2000s,22.0
+1000 m sh,2:30.94,Maria Mutola,MOZ,1999-02-25,GE Galan,Stockholm,SWE,Female,Indoor,True,Middle Distance,1990s,25.0
+1500 m sh,3:53.09,Gudaf Tsegay,ETH,2021-02-09,Meeting Hauts-de-France Pas-de-Calais,Liévin,FRA,Female,Indoor,True,Middle Distance,2020s,3.0
+Mile sh,4:13.31,Genzebe Dibaba,ETH,2016-02-17,Globen Galan,Stockholm,SWE,Female,Indoor,True,Middle Distance,2010s,8.0
+3000 m sh,8:16.60,Genzebe Dibaba,ETH,2014-02-06,XL Galan,Stockholm,SWE,Female,Indoor,True,Long Distance,2010s,10.0
+5000 m sh,14:18.86,Genzebe Dibaba,ETH,2015-02-19,XL Galan,Stockholm,SWE,Female,Indoor,True,Long Distance,2010s,9.0
+50 m hurdles,6.58,Cornelia Oschkenat,GDR,1988-02-20,,East Berlin,GDR,Female,Indoor,True,Hurdles,1980s,36.0
+60 m hurdles,7.68,Susanna Kallur,SWE,2008-02-10,BW-Bank Meeting,Karlsruhe,GER,Female,Indoor,True,Hurdles,2000s,16.0
+60 m hurdles,7.67,Devynne Charlton,BAH,2024-02-11,Millrose Games,New York City,USA,Female,Indoor,True,Hurdles,2020s,0.0
+60 m hurdles,7.67,Tia Jones,USA,2024-02-16,USA Championships,Albuquerque,USA,Female,Indoor,True,Hurdles,2020s,0.0
+60 m hurdles,7.65,Devynne Charlton,BAH,2024-03-03,World Championships,Glasgow,USA,Female,Indoor,True,Hurdles,2020s,0.0
+60 m hurdles,7.68,Lyudmila Narozhilenko,RUS,1993-03-02,,San Sebastián,ESP,Female,Indoor,True,Hurdles,1990s,31.0
+60 m hurdles,7.66,Lyudmila Narozhilenko,RUS,1993-03-04,,Seville,ESP,Female,Indoor,True,Hurdles,1990s,31.0
+60 m hurdles,7.63,Lyudmila Narozhilenko,RUS,1993-03-04,,Seville,ESP,Female,Indoor,True,Hurdles,1990s,31.0
+High jump,2.08 m,Kajsa Bergqvist,SWE,2006-02-04,Hochsprung mit Musik,Arnstadt,GER,Female,Indoor,True,Jumping,2000s,18.0
+Pole vault,5.03 m,Jenn Suhr,USA,2016-01-30,Golden Eagle Multi and Invitational,Brockport,USA,Female,Indoor,True,Jumping,2010s,8.0
+Pole vault,5.02 m,Jenn Suhr,USA,2013-03-02,USA Championships,Albuquerque,USA,Female,Indoor,True,Jumping,2010s,11.0
+Long jump,7.37 m,Heike Drechsler,GDR,1988-02-13,,Vienna,AUT,Female,Indoor,True,Jumping,1980s,36.0
+Triple jump,15.74 m,Yulimar Rojas,VEN,2022-03-20,World Championships,Belgrade,SRB,Female,Indoor,True,Jumping,2020s,2.0
+Shot put,22.50 m,Helena Fibingerová,TCH,1977-02-19,,Jablonec,TCH,Female,Indoor,True,Throwing,1970s,47.0
+Pentathlon sh,5055 pts,Nafi Thiam,BEL,2023-03-03,European Championships,Istanbul,TUR,Female,Indoor,True,Multisport Events,2020s,1.0
+3000 m walk sh,11:40.33,Claudia Iovan,ROU,1999-01-30,,Bucharest,ROU,Female,Indoor,True,Walking,1990s,25.0
+3000 m walk sh,11:35.34,Gillian O'Sullivan,IRL,2003-02-15,,Belfast,GBR,Female,Indoor,True,Walking,2000s,21.0
+4 × 200 m relay sh,1:32.41,"Yekaterina Kondratyeva, Irina Khabarova, Yuliya Pechonkina, Yuliya Gushchina",RUS,2005-01-29,Aviva International Match,Glasgow,GBR,Female,Indoor,True,Relay,2000s,19.0
+4 × 400 m relay sh,3:23.37,"Olesya Krasnomovets, Olga Zaytseva, Olga Kotlyarova, Yuliya Gushchina",RUS,2006-01-28,Aviva International Match,Glasgow,GBR,Female,Indoor,True,Relay,2000s,18.0
+4 × 400 m relay sh,3:21.75,"Amber Anning, Joanne Reid, Rosey Effiong, Britton Wilson","GBR, JAM, USA, USA",2023-03-11,NCAA Division I Championships,Albuquerque,USA,Female,Indoor,True,Relay,2020s,1.0
+4 × 800 m relay sh,8:05.89,"Chrishuna Williams, Raevyn Rogers, Charlene Lipsey, Ajeé Wilson",USA,2018-02-03,Millrose Games,New York City,USA,Female,Indoor,True,Relay,2010s,6.0
+50 m,5.40,Bruny Surin,CAN,1999-08-22,World Championships,Seville,ESP,Male,Outdoor,False,Sprint,1990s,25.0
+60 m,6.25,Bruny Surin,CAN,1999-08-22,World Championships,Seville,ESP,Male,Outdoor,False,Sprint,1990s,25.0
+60 m,6.31,Usain Bolt,JAM,2009-08-16,World Championships,Berlin,GER,Male,Outdoor,False,Sprint,2000s,15.0
+60 m,6.29,Su Bingtian,CHN,2021-08-01,Olympic Games,Tokyo,JPN,Male,Outdoor,False,Sprint,2020s,3.0
+100 y,9.00,Ivory Crockett,USA,1974-05-11,,Knoxville,USA,Male,Outdoor,False,Sprint,1970s,50.0
+100 y,9.00,Houston McTear,USA,1975-05-09,,Winter Park,USA,Male,Outdoor,False,Sprint,1970s,49.0
+100 y,9.07,Asafa Powell,JAM,2010-05-27,Golden Spike Ostrava,Ostrava,CZE,Male,Outdoor,False,Sprint,2010s,14.0
+150 m,14.44,Usain Bolt,JAM,2009-08-20,World Championships,Berlin,GER,Male,Outdoor,False,Sprint,2000s,15.0
+150 m straight,14.35,Usain Bolt,JAM,2009-05-17,Manchester City Games,Manchester,GBR,Male,Outdoor,False,Sprint,2000s,15.0
+200 m straight,19.41,Tyson Gay,USA,2010-05-16,Manchester City Games,Manchester,GBR,Male,Outdoor,False,Sprint,2010s,14.0
+220 y (straight),19.50,Tommie Smith,USA,1966-05-07,Video on YouTube,"San Jose, California",USA,Male,Outdoor,False,Sprint,1960s,58.0
+220 y (straight),19.54,Tyson Gay,USA,2010-05-16,Manchester City Games,Manchester,GBR,Male,Outdoor,False,Sprint,2010s,14.0
+300 m,30.69,Letsile Tebogo,BOT,2024-02-17,Simbine Curro Classic Shoot-Out,Pretoria,RSA,Male,Outdoor,False,Sprint,2020s,0.0
+440 y,44.50,John Smith,USA,1971-06-26,Great North City Games,Eugene,USA,Male,Outdoor,False,Sprint,1970s,53.0
+500 m,57.69,David Rudisha,KEN,2016-09-10,Great North CityGames,Newcastle,GBR,Male,Outdoor,False,Sprint,2010s,8.0
+600 m,1:12.81,Johnny Gray,USA,1986-05-24,,Santa Monica,USA,Male,Outdoor,False,Sprint,1980s,38.0
+1600 m,3:41.83,Hicham El Guerrouj,MAR,1999-07-07,Golden Gala,Rome,ITA,Male,Outdoor,False,Middle Distance,1990s,25.0
+3200 m,7:51.35,Jakob Ingebrigtsen,NOR,2023-06-09,Meeting de Paris,Paris,FRA,Male,Outdoor,False,Long Distance,2020s,1.0
+Two miles,7:54.10,Jakob Ingebrigtsen,NOR,2023-06-09,Meeting de Paris,Paris,FRA,Male,Outdoor,False,Long Distance,2020s,1.0
+8 km (road),21:11.00,Rhonex Kipruto,KEN,2020-01-12,10K Valencia Ibercaja,Valencia,ESP,Male,Outdoor,False,Long Distance,2020s,4.0
+15 km (road),40:27.00,Jacob Kiplimo,UGA,2021-11-21,Lisbon Half Marathon,Lisbon,POR,Male,Outdoor,False,Long Distance,2020s,2.0
+10 miles (road),44:04.00,Benard Kibet,KEN,2022-12-04,Kōsa 10-Miler,Kōsa,JAP,Male,Outdoor,False,Long Distance,2020s,1.0
+"20,000 m (track)",56:20.02,Bashir Abdi,BEL,2020-09-04,Diamond League,Brussels,BEL,Male,Outdoor,False,Long Distance,2020s,4.0
+20 km (road),54:29.00,Jacob Kiplimo,UGA,2021-11-21,Lisbon Half Marathon,Lisbon,POR,Male,Outdoor,False,Long Distance,2020s,2.0
+"25,000 m (track)",1:12:25.40,Moses Mosop,KEN,2011-06-03,Prefontaine Classic,Eugene,USA,Male,Outdoor,False,Long Distance,2010s,13.0
+25 km (road),1:11:08.00,Eliud Kipchoge,KEN,2022-09-25,Berlin Marathon,Berlin,GER,Male,Outdoor,False,Long Distance,2020s,2.0
+"30,000 m (track)",1:26:47.40,Moses Mosop,KEN,2011-06-03,Prefontaine Classic,Eugene,USA,Male,Outdoor,False,Long Distance,2010s,13.0
+30 km (road),1:25:40.00,Eliud Kipchoge,KEN,2022-09-25,Berlin Marathon,Berlin,GER,Male,Outdoor,False,Long Distance,2020s,2.0
+35 km (road),1:40:10.00,Eliud Kipchoge,KEN,2022-09-25,Berlin Marathon,Berlin,GER,Male,Outdoor,False,Long Distance,2020s,2.0
+40 km (road),1:54:23.00,Kelvin Kiptum,KEN,2023-10-08,Chicago Marathon,Chicago,USA,Male,Outdoor,False,Long Distance,2020s,1.0
+"100,000 m (track)",6:05:41.00,Aleksandr Sorokin,LTU,2022-04-23,Centurion Running Track 100 Mile,Bedfordshire,GBR,Male,Outdoor,False,Long Distance,2020s,2.0
+100 miles (track),11:14:56.00,Aleksandr Sorokin,LTU,2021-04-24,Centurion Running Track 100 Mile,Ashford,UK,Male,Outdoor,False,Long Distance,2020s,3.0
+100 miles (road),10:51:39.00,Aleksandr Sorokin,LTU,2022-01-06,Spartanion Race,Tel Aviv,ISR,Male,Outdoor,False,Long Distance,2020s,2.0
+12-hour run (track),"170,309 m",Aleksandr Sorokin,LTU,2021-04-24,Centurion Running Track 100 Mile,Ashford,UK,Male,Outdoor,False,Long Distance,2020s,3.0
+12-hour run (road),"177,410 m",Aleksandr Sorokin,LTU,2022-01-06,Spartanion Race,Tel Aviv,ISR,Male,Outdoor,False,Long Distance,2020s,2.0
+24-hour run (road),"319,614 m",Aleksandr Sorokin,LTU,2022-09-18,IAU 24 Hour European Championships,Verona,ITA,Male,Outdoor,False,Long Distance,2020s,2.0
+2000 m steeplechase,5:10.68,Mahiedine Mekhissi-Benabbad,FRA,2010-06-30,Alma Athlé Tour,Reims,FRA,Male,Outdoor,False,Middle Distance,2010s,14.0
+2500 m steeplechase,7:34.4,George Orton,CAN,1900-07-15,Olympic Games,Paris,FRA,Male,Outdoor,False,Middle Distance,1900s,124.0
+2590 m steeplechase,7:39.6,James Lightbody,USA,1904-08-29,Olympic Games,St. Louis,USA,Male,Outdoor,False,Middle Distance,1900s,120.0
+3460 m steeplechase,10:33.4,Volmari Iso-Hollo,FIN,1932-08-01,Olympic Games,Los Angeles,USA,Male,Outdoor,False,Long Distance,1930s,92.0
+4000 m steeplechase,12:58.4,John Rimmer,GBR,1900-07-16,Olympic Games,Paris,FRA,Male,Outdoor,False,Long Distance,1900s,124.0
+200 m hurdles,22.55,Laurent Ottoz,ITA,1995-05-31,,Milan,ITA,Male,Outdoor,False,Hurdles,1990s,29.0
+200 m hurdles straight,21.90,Don Styron,USA,1960-04-02,,Baton Rouge,USA,Male,Outdoor,False,Hurdles,1960s,64.0
+200 m hurdles straight,22.10,Andy Turner,GBR,2011-05-15,Manchester City Games,Manchester,GBR,Male,Outdoor,False,Hurdles,2010s,13.0
+200 m hurdles straight,22.10,Louis Jacobus van Zyl,RSA,2015-05-09,Manchester City Games,Manchester,GBR,Male,Outdoor,False,Hurdles,2010s,9.0
+220 y hurdles straight,21.90,Don Styron,USA,1960-04-02,,Baton Rouge,USA,Male,Outdoor,False,Hurdles,1960s,64.0
+300 m hurdles,33.26,Karsten Warholm,NOR,2021-06-04,Night of Highlights,Oslo,NOR,Male,Outdoor,False,Hurdles,2020s,3.0
+440 y hurdles,48.70,Jim Bolding,USA,1974-07-25,,Turin,ITA,Male,Outdoor,False,Hurdles,1970s,50.0
+Standing long jump,12 ft 3 in,Byron Jones,USA,2015-02-23,NFL Scouting Combine,Indianapolis,USA,Male,Outdoor,False,Jumping,2010s,9.0
+Standing triple jump,10.95 m,Tydree Lewis,USA,2011-10-31,,,,Male,Outdoor,False,Jumping,2010s,13.0
+Weight throw,25.41 m,Lance Deal,USA,1993-02-20,,Azusa,USA,Male,Outdoor,False,Throwing,1990s,31.0
+Icosathlon,14571 pts,Joseph Detmer,USA,2010-09-25,World Championships,"Lynchburg, Virginia",USA,Male,Outdoor,False,Multisport Events,2010s,14.0
+1500 m walk (track),5:12.00,Antanas Grigaliūnas,LTU,1990-05-12,,Vilnius,LTU,Male,Outdoor,False,Walking,1990s,34.0
+Mile walk (track),5:31.08,Tom Bosworth,GBR,2017-07-09,London Grand Prix,London,GBR,Male,Outdoor,False,Walking,2010s,7.0
+3000 m walk (track),10:47.11,Giovanni De Benedictis,ITA,1990-05-19,,San Giovanni Valdarno,ITA,Male,Outdoor,False,Walking,1990s,34.0
+5000 m walk (track),18:05.49,Hatem Ghoula,TUN,1997-05-01,,Tunis,TUN,Male,Outdoor,False,Walking,1990s,27.0
+5 km walk (road),18:21,Robert Korzeniowski,POL,1990-09-15,,Bad Salzdetfurth,GER,Male,Outdoor,False,Walking,1990s,34.0
+"10,000 m walk (track)",37:25.21,Eiki Takahashi,JPN,2020-11-14,Juntendo University Long Distance meeting,Inzai,JPN,Male,Outdoor,False,Walking,2020s,3.0
+10 km walk (road),37:11.00,Roman Rasskazov,RUS,2000-05-28,,Saransk,RUS,Male,Outdoor,False,Walking,2000s,24.0
+30 km walk (road),2:05:06.00,Nathan Deakes,AUS,2006-08-27,Australian Race Walking Championships,Hobart,AUS,Male,Outdoor,False,Walking,2000s,18.0
+35 km walk (road),2:21:31.00,Vladimir Kanaykin,RUS,2006-02-19,Russian Winter Race Walking Championships,Adler,RUS,Male,Outdoor,False,Walking,2000s,18.0
+50-mile walk (road),7:44:47.20,"Earl McCullouch, Fred Kuller, O. J. Simpson, Lennox Miller (JAM)",ISR,1972-01-01,,New Jersey,USA,Male,Outdoor,False,Walking,1970s,52.0
+4 × 110 y relay,38.60,"Earl McCullouch, Fred Kuller, O. J. Simpson, Lennox Miller (JA, M)",,1967-06-17,NCAA Division I Men's Outdoor Championships,"Provo, Utah",USA,Male,Outdoor,False,Relay,1960s,57.0
+Swedish relay,1:46.59,"Christopher Williams, Usain Bolt, Davian Clarke, Jermaine Gonzales",JAM,2006-07-25,DN Galan,Stockholm,SWE,Male,Outdoor,False,Relay,2000s,18.0
+Sprint medley relay (2-2-4-8),3:10.76,"Carl Lewis, Ferran Tyler, Benny Hollis, Johnny Gray",USA,1985-04-06,,Tempe,USA,Male,Outdoor,False,Relay,1980s,39.0
+4 × mile relay,15:49.08,"Eamonn Coghlan, Ray Flynn, Frank O'Mara, Marcus O'Sullivan",IRL,1985-08-17,,Dublin,IRL,Male,Outdoor,False,Relay,1980s,39.0
+4 × 110m shuttle hurdle relay,52.94,"Jason Richardson, Aleec Harris, Aries Merritt, David Oliver",USA,2015-04-25,Drake Relays,Des Moines,USA,Male,Outdoor,False,Hurdles,2010s,9.0
+50 m,5.93,Marion Jones,USA,1999-08-22,World Championships,Seville,ESP,Female,Outdoor,False,Sprint,1990s,25.0
+60 m,6.83,Shelly-Ann Fraser-Pryce,JAM,2022-08-10,Monaco Diamond League,Monaco,MON,Female,Outdoor,False,Sprint,2020s,2.0
+100 y,9.91,Veronica Campbell-Brown,JAM,2011-05-31,Golden Spike Ostrava,Ostrava,CZE,Female,Outdoor,False,Sprint,2010s,13.0
+150 m,16.09,Shericka Jackson,JAM,2023-09-08,Memorial van Damme,Brussels,BEL,Female,Outdoor,False,Sprint,2020s,1.0
+150 m,16.41,Brianna Rollins-McNeal,USA,2020-07-20,AP Ranch High-Performance Invitational,Fort Worth,USA,Female,Outdoor,False,Sprint,2020s,4.0
+150 m straight,16.23,Shaunae Miller-Uibo,BAH,2018-05-20,Adidas Boost Boston Games,Boston,USA,Female,Outdoor,False,Sprint,2010s,6.0
+200 m straight,21.76,Shaunae Miller-Uibo,BAH,2017-06-04,Boost Boston Games,Somerville,USA,Female,Outdoor,False,Sprint,2010s,7.0
+300 m,34.14,Marita Koch,GDR,1985-10-06,World Cup,Canberra,AUS,Female,Outdoor,False,Sprint,1980s,39.0
+300 m,34.41,Shaunae Miller-Uibo,BAH,2019-06-20,Golden Spike Ostrava,Ostrava,CZE,Female,Outdoor,False,Sprint,2010s,5.0
+500 m,1:05.90,Tatana Kocembova,TCH,1984-08-02,,Ostrava,TCH,Female,Outdoor,False,Sprint,1980s,40.0
+600 m,1:21.77,Caster Semenya,RSA,2017-08-27,ISTAF Berlin,Berlin,GER,Female,Outdoor,False,Sprint,2010s,7.0
+1600 m,4:06.20,Faith Kipyegon,KEN,2023-07-21,Herculis,Monaco,MON,Female,Outdoor,False,Middle Distance,2020s,1.0
+3200 m,8:55.45,Meseret Defar,ETH,2007-09-14,Memorial Van Damme,Brussels,BEL,Female,Outdoor,False,Long Distance,2000s,17.0
+Two miles,8:58.58,Meseret Defar,ETH,2007-09-14,Memorial Van Damme,Brussels,BEL,Female,Outdoor,False,Long Distance,2000s,17.0
+4 miles (road),19:14.00,Viola Kibiwot,KEN,2013-10-13,4 Mile of Groningen,Groningen,NED,Female,Outdoor,False,Long Distance,2010s,11.0
+8 km (road),24:30.00,Mary Keitany,KEN,2011-02-18,RAK Half Marathon,Ras al-Khaimah,UAE,Female,Outdoor,False,Long Distance,2010s,13.0
+12 km (road),38:05.00,Brillian Kipkoech,KEN,2019-05-19,FNB Cape Town 12 ONERUN,Cape Town,RSA,Female,Outdoor,False,Long Distance,2010s,5.0
+15 km (road),44:20.00,Letesenbet Gidey,ETH,2019-11-17,Zevenheuvelenloop,Nijmegen,NED,Female,Outdoor,False,Long Distance,2010s,4.0
+15 km (road),46:24.00,Joyciline Jepkosgei,KEN,2020-10-17,World Athletics Half Marathon Championships,Gdynia,POL,Female,Outdoor,False,Long Distance,2020s,4.0
+10 miles (road),51:23.00,Keira D'Amato,USA,2020-11-24,Up Dawg Ten Miler,"Washington, D.C.",USA,Female,Outdoor,False,Long Distance,2020s,3.0
+10 miles (road),50:05.00,Mary Keitany,KEN,2011-02-18,RAK Half Marathon,Ras al-Khaimah,UAE,Female,Outdoor,False,Long Distance,2010s,13.0
+10 miles (road),49:21.00,Brigid Kosgei,KEN,2019-09-08,Great North Run,"Newcastle upon Tyne–South Shields, United Kingdom",GBR,Female,Outdoor,False,Long Distance,2010s,5.0
+"20,000 m (track)",1:05:26.60,Tegla Loroupe,KEN,2000-09-03,,Borgholzhausen,GER,Female,Outdoor,False,Long Distance,2000s,24.0
+20 km (road),59:35.00,Letesenbet Gidey,ETH,2021-10-24,Valencia Half Marathon,Valencia,ESP,Female,Outdoor,False,Long Distance,2020s,3.0
+20 km (road),1:02:04.00,Peres Jepchirchir,KEN,2020-10-17,World Athletics Half Marathon Championships,Gdynia,POL,Female,Outdoor,False,Long Distance,2020s,4.0
+"25,000 m (track)",1:27:05.84,Tegla Loroupe,KEN,2002-09-21,,Mengerskirchen,GER,Female,Outdoor,False,Long Distance,2000s,22.0
+25 km (road),1:18:03.00,Ruth Chepngetich,KEN,2022-10-09,Chicago Marathon,Chicago,USA,Female,Outdoor,False,Long Distance,2020s,2.0
+25 km (road),1:19:43.00,Mary Jepkosgei Keitany,KEN,2017-04-23,London Marathon,London,GBR,Female,Outdoor,False,Long Distance,2010s,7.0
+"30,000 m (track)",1:45:50.00,Tegla Loroupe,KEN,2003-06-06,,Warstein,GER,Female,Outdoor,False,Long Distance,2000s,21.0
+30 km (road),1:34:01.00,Ruth Chepngetich,KEN,2022-10-09,Chicago Marathon,Chicago,USA,Female,Outdoor,False,Long Distance,2020s,2.0
+30 km (road),1:36:05.00,Mary Jepkosgei Keitany,KEN,2017-04-23,London Marathon,London,GBR,Female,Outdoor,False,Long Distance,2010s,7.0
+35 km (road),1:49:41.00,Tigst Assefa,ETH,2023-09-24,Berlin Marathon,Berlin,GER,Female,Outdoor,False,Long Distance,2020s,1.0
+35 km (road),1:52:39.00,Mary Jepkosgei Keitany,KEN,2017-04-23,London Marathon,London,GBR,Female,Outdoor,False,Long Distance,2010s,7.0
+40 km (road),2:05:13.00,Tigst Assefa,ETH,2023-09-24,Berlin Marathon,Berlin,GER,Female,Outdoor,False,Long Distance,2020s,1.0
+40 km (road),2:09:38.00,Mary Jepkosgei Keitany,KEN,2017-04-23,London Marathon,London,GBR,Female,Outdoor,False,Long Distance,2010s,7.0
+100 miles (road),12:42:40.00,Camille Herron,USA,2017-11-11,Tunnel Hill 100,Vienna,USA,Female,Outdoor,False,Long Distance,2010s,6.0
+12-hour run (track),"149,130 m",Camille Herron,USA,2017-12-09,Desert Solstice Track Invitational,Phoenix,USA,Female,Outdoor,False,Long Distance,2010s,6.0
+12-hour run (road),"152,633 m",Dominika Stelmach,POL,2023-01-05,Spartanion Race,Tel Aviv,ISR,Female,Outdoor,False,Long Distance,2020s,1.0
+24-hour run (road),"270,116 m",Camille Herron,USA,2019-10-26,IAU 24 Hour World Championship,Albi,FRA,Female,Outdoor,False,Long Distance,2010s,5.0
+48-hour run (road),"435,366 m",Camille Herron,USA,2023-03-25,Sri Chinmoy 48 Hour Festival,Bruce,AUS,Female,Outdoor,False,Long Distance,2020s,1.0
+2000 m steeplechase,5:47.42,Beatrice Chepkoech,KEN,2023-09-10,Hanžeković Memorial,Zagreb,CRO,Female,Outdoor,False,Middle Distance,2020s,1.0
+200 m hurdles (bend),24.80,Yadisleidy Pedroso,ITA,2013-04-06,,Caserta,ITA,Female,Outdoor,False,Hurdles,2010s,11.0
+200 m hurdles (bend),25.60,Patricia Girard,FRA,2001-08-23,,Nantes,FRA,Female,Outdoor,False,Hurdles,2000s,23.0
+200 m hurdles (bend),25.79,Lauren Wells,AUS,2017-01-21,AACT Combined Events Championships,Canberra,AUS,Female,Outdoor,False,Hurdles,2010s,7.0
+200 m hurdles (straight),24.86,Shiann Salmon,JAM,2021-05-23,Adidas Boost Boston Games,Boston,USA,Female,Outdoor,False,Hurdles,2020s,3.0
+300 m hurdles,36.86,Femke Bol,NED,2022-05-31,Ostrava Golden Spike,Ostrava,CZE,Female,Outdoor,False,Hurdles,2020s,2.0
+Tetradecathlon,10798 pts,Milla Kelo,FIN,2002-09-08,,Turku,FIN,Female,Outdoor,False,Multisport Events,2000s,22.0
+3000 m walk (track),11:48.24,Ileana Salvador,ITA,1993-08-29,,Padua,ITA,Female,Outdoor,False,Walking,1990s,31.0
+5000 m walk (track),20:01.80,Eleonora Giorgi,ITA,2014-05-18,Italian Clubs League Meet,Misterbianco,ITA,Female,Outdoor,False,Walking,2010s,10.0
+5 km walk (road),19:46,Kjersti Plätzer,NOR,2006-08-27,Internationaler Geher-Cup,Hildesheim,GER,Female,Outdoor,False,Walking,2000s,18.0
+10 km walk (road),41:04.00,Yelena Nikolayeva,RUS,1996-04-20,Russian Championships,Sochi,RUS,Female,Outdoor,False,Walking,1990s,28.0
+30 km walk (road),2:24:33.00,Paola Pérez,ECU,2017-10-22,,Hauppauge,USA,Female,Outdoor,False,Walking,2010s,7.0
+35 km walk (road),2:38:24.00,Klavdiya Afanasyeva,RUS,2019-02-18,Russian Winter Walking Championships,Sochi,RUS,Female,Outdoor,False,Walking,2010s,5.0
+Sprint medley relay (1–1–2–4),1:35.20,"Destinee Brown, Aaliyah Brown, Kimberlyn Duncan, Raevyn Rogers",USA,2018-04-28,Penn Relays,Philadelphia,USA,Female,Outdoor,False,Relay,2010s,6.0
+Swedish relay (1–2–3–4),2:01.10,"Marina Zhirova, Yelena Mizera, Yelena Ruzina, Tatyana Alekseyeva",RUS,1993-06-05,,Portsmouth,GBR,Female,Outdoor,False,Relay,1990s,31.0
+Sprint medley relay (2-2-4-8),3:34.56,"Sherri-Ann Brooks, Rosemarie Whyte, Moya Thompson, Kenia Sinclair",JAM,2009-04-01,Penn Relays,Philadelphia,USA,Female,Outdoor,False,Relay,2000s,15.0
+4 × mile relay,18:39.58,"Brenda Bushnell, Leann Warren, Kathy Hayes, Claudette Groenendaal",USA,1985-05-05,,Eugene,USA,Female,Outdoor,False,Relay,1980s,39.0
+4 × 100 m hurdles relay,50.50,"Brianna Rollins, Dawn Harper-Nelson, Queen Harrison, Kristi Castlin",USA,2015-04-24,Drake Relays,Des Moines,USA,Female,Outdoor,False,Hurdles,2010s,9.0
+30 m,3.81,Churandy Martina,NED,2008-11-14,Domino Day,Amsterdam,NED,Male,Indoor,False,Sprint,2000s,15.0
+40 y,4.12,Christian Coleman,USA,2017-05-02,Trial,Knoxville,USA,Male,Indoor,False,Sprint,2010s,7.0
+50 y,5.22,Stanley Floyd,USA,1982-01-22,,Los Angeles,USA,Male,Indoor,False,Sprint,1980s,42.0
+50 y,5.15,Ben Johnson,CAN,1988-01-29,,Toronto,CAN,Male,Indoor,False,Sprint,1980s,36.0
+50 y,5.00,Kirk Clayton,USA,1970-01-10,,Calgary,CAN,Male,Indoor,False,Sprint,1970s,54.0
+50 y,5.00,Herb Washington,USA,1972-02-02,,Toronto,CAN,Male,Indoor,False,Sprint,1970s,52.0
+50 y,5.00,Mel Pender,USA,1972-03-04,,Orlando,USA,Male,Indoor,False,Sprint,1970s,52.0
+50 y,5.00,Mel Pender,USA,1972-03-18,,Hamilton,CAN,Male,Indoor,False,Sprint,1970s,52.0
+50 y,5.00,Herb Washington,USA,1973-02-04,,Toronto,CAN,Male,Indoor,False,Sprint,1970s,51.0
+50 y,5.00,Manfred Ommer,FRG,1975-03-14,,Leverkusen,FRG,Male,Indoor,False,Sprint,1970s,49.0
+60 y,5.80,Herb Washington,USA,1972-02-12,,East Lansing,USA,Male,Indoor,False,Sprint,1970s,52.0
+60 y,5.80,Mel Pender,USA,1973-05-25,,Salt Lake City,USA,Male,Indoor,False,Sprint,1970s,51.0
+55 m,5.99,Obadele Thompson,BAR,1997-02-22,,Colorado Springs,USA,Male,Indoor,False,Sprint,1990s,27.0
+70 y,6.80,Mel Pender,USA,1965-02-27,Mason-Dixon Games,Louisville,USA,Male,Indoor,False,Sprint,1960s,59.0
+70 y,6.80,Craig Wallace,USA,1965-02-27,Mason-Dixon Games,Louisville,USA,Male,Indoor,False,Sprint,1960s,59.0
+70 y,6.80,Larry Highbaugh,USA,1970-02-14,Mason-Dixon Games,Louisville,USA,Male,Indoor,False,Sprint,1970s,54.0
+70 y,6.80,Jim Green,USA,1970-02-14,Mason-Dixon Games,Louisville,USA,Male,Indoor,False,Sprint,1970s,54.0
+70 y,6.80,Mel Pender,USA,1971-02-13,Mason-Dixon Games,Louisville,USA,Male,Indoor,False,Sprint,1970s,53.0
+70 y,6.80,Jean-Louis Ravelomanantsoa,MAD,1973-06-01,Mason-Dixon Games,Louisville,USA,Male,Indoor,False,Sprint,1970s,51.0
+70 y,6.80,Warren Edmondson,USA,1973-06-01,Mason-Dixon Games,Louisville,USA,Male,Indoor,False,Sprint,1970s,51.0
+70 y,6.80,Harrington Jackson,USA,1973-06-01,Mason-Dixon Games,Louisville,USA,Male,Indoor,False,Sprint,1970s,51.0
+100 m,9.98,Usain Bolt,JAM,2014-08-23,Kamila Skolimowska Memorial,Warsaw,POL,Male,Indoor,False,Sprint,2010s,10.0
+150 m,14.99,Donovan Bailey,CAN,1997-06-01,Bailey–Johnson 150-metre race,Toronto,CAN,Male,Indoor,False,Sprint,1990s,27.0
+300 y,29.27,Terron Wright,USA,1981-02-07,,Bloomington,USA,Male,Indoor,False,Sprint,1980s,43.0
+300 m,31.56,Steven Gardiner,BAH,2022-01-28,South Carolina Invitational,Columbia,USA,Male,Indoor,False,Sprint,2020s,2.0
+500 y,53.90,Larry James,USA,1973-05-25,ITA meet,Salt Lake City,USA,Male,Indoor,False,Sprint,1970s,51.0
+500 m,59.83,Abdalelah Haroun,QAT,2016-02-17,Globen Galan,Stockholm,SWE,Male,Indoor,False,Sprint,2010s,8.0
+600 y,1:06.93,Moitalel Naadokila,KEN,2020-02-15,,Lubbock,USA,Male,Indoor,False,Middle Distance,2020s,4.0
+600 y,1:06.68,Jonathan Jones,BAR,2022-02-26,Big 12 Championships,Ames,USA,Male,Indoor,False,Middle Distance,2020s,2.0
+600 m,1:13.77,Donavan Brazier,USA,2019-02-24,USA Indoor Championships,Staten Island,USA,Male,Indoor,False,Sprint,2010s,5.0
+1000 y,2:04.39,Johnny Gray,USA,1986-02-23,,San Diego,USA,Male,Indoor,False,Middle Distance,1980s,38.0
+1600 m,3:45.69,Yomif Kejelcha,ETH,2019-03-03,Bruce Lehane Invitational,Boston,USA,Male,Indoor,False,Middle Distance,2010s,5.0
+2000 m,4:49.99,Kenenisa Bekele,ETH,2007-02-17,Aviva Indoor Grand Prix,Birmingham,GBR,Male,Indoor,False,Middle Distance,2000s,17.0
+3200 m,7:57.89,Josh Kerr,GBR,2024-02-11,Millrose Games,New York City,USA,Male,Indoor,False,Long Distance,2020s,0.0
+Two miles,8:00.67,Josh Kerr,GBR,2024-02-11,Millrose Games,New York City,USA,Male,Indoor,False,Long Distance,2020s,0.0
+"10,000 m",27:50.29,Mark Bett,KEN,2002-02-10,Indoor Flanders Meeting,Ghent,BEL,Male,Indoor,False,Long Distance,2000s,22.0
+Marathon,2:19:01,Malcolm Richards,USA,2018-03-17,The Armory Indoor Marathon,New York City,USA,Male,Indoor,False,Long Distance,2010s,6.0
+2000 m steeplechase,5:13.77,Paul Kipsiele Koech,KEN,2011-02-13,Indoor Flanders Meeting,Ghent,BEL,Male,Indoor,False,Middle Distance,2010s,13.0
+3000 m steeplechase,8:17.46,Aleksandr Zagoruyko,URS,1982-02-21,,Moscow,URS,Male,Indoor,False,Long Distance,1980s,42.0
+50 y hurdles,5.88,Greg Foster,USA,1986-01-17,,Los Angeles,USA,Male,Indoor,False,Hurdles,1980s,38.0
+60 y hurdles,6.82,Renaldo Nehemiah,USA,1982-01-30,,Dallas,USA,Male,Indoor,False,Hurdles,1980s,42.0
+55 m hurdles,6.89,Renaldo Nehemiah,USA,1979-01-20,,New York City,USA,Male,Indoor,False,Hurdles,1970s,45.0
+110 m hurdles,13.34,Allen Johnson,USA,1995-02-14,,Moscow,RUS,Male,Indoor,False,Hurdles,1990s,29.0
+300 m hurdles,34.26,Karsten Warholm,NOR,2018-02-10,Avoimet Pirkanmaan,Tampere,FIN,Male,Indoor,False,Hurdles,2010s,6.0
+400 m hurdles,48.78,Félix Sánchez,DOM,2012-02-18,Meeting National Val-de-Reuil,Val-de-Reuil,FRA,Male,Indoor,False,Hurdles,2010s,12.0
+Discus throw,69.51 m,Gerd Kanter,EST,2009-03-22,World Record Indoor Challenge,Växjö,SWE,Male,Indoor,False,Throwing,2000s,15.0
+Weight throw,26.35 m,Daniel Haugh,USA,2024-02-16,USA Championships,Albuquerque,USA,Male,Indoor,False,Throwing,2020s,0.0
+Javelin throw,85.78 m,Matti Närhi,FIN,1996-03-03,,Kajaani,FIN,Male,Indoor,False,Throwing,1990s,28.0
+3000 m walk,10:30.28,Tom Bosworth,GBR,2018-02-25,Glasgow Grand Prix,Glasgow,GBR,Male,Indoor,False,Walking,2010s,6.0
+Two miles walk,11:54.50,Valdas Kazlauskas,URS,1990-02-24,,Kaunas,URS,Male,Indoor,False,Walking,1990s,34.0
+"10,000 m walk",38:23.73,Wang Zhen,CHN,2015-02-08,,Genoa,ITA,Male,Indoor,False,Walking,2010s,9.0
+"15,000 m walk",1:00:03.90,Valdas Kazlauskas,URS,1987-01-24,,Kaunas,URS,Male,Indoor,False,Walking,1980s,37.0
+"20,000 m walk",1:20:40.00,Ronald Weigel,GDR,1980-01-27,,Senftenberg,GDR,Male,Indoor,False,Walking,1980s,44.0
+Sprint medley relay,3:15.10,"Mark Everett, James Trapp, Kevin Little, Butch Reynolds",USA,1993-03-14,World Indoor Championships,Toronto,CAN,Male,Indoor,False,Relay,1990s,31.0
+Distance medley relay,9:19.42,"Cole Hocker, Luis Peralta, Charlie Hunter, Cooper Teare","USA, DOM, AUS, USA",2021-01-29,Razorback Invitational,Fayetteville,USA,Male,Indoor,False,Relay,2020s,3.0
+4 × mile relay,16:03.68,"David Ribich (4:08.2), Henry Wynne (4:01.4), Brannon Kidder (3:56.8), Izaic Yorks (3:57.2)",USA,2019-01-26,Dr. Sander Columbia Challenge,New York City,USA,Male,Indoor,False,Relay,2010s,5.0
+4 × 60y shuttle hurdle relay,27.6,"T.G. Parker, Joe Kahiapo, Ahart Powers, Dick McIntosh",USA,1975-02-21,,Colorado Springs,USA,Male,Indoor,False,Hurdles,1970s,49.0
+50 y,5.74,Evelyn Ashford,USA,1983-02-18,,San Diego,USA,Female,Indoor,False,Sprint,1980s,41.0
+60 y,6.54,Evelyn Ashford,USA,1982-02-07,USA Indoor Track and Field Championships,New York City,USA,Female,Indoor,False,Sprint,1980s,42.0
+60 y,6.54,Jeanette Bolden,USA,1986-02-21,,Los Angeles,USA,Female,Indoor,False,Sprint,1980s,38.0
+55 m,6.56,Gwen Torrence,USA,1987-03-14,NCAA,Oklahoma City,USA,Female,Indoor,False,Sprint,1980s,37.0
+100 y,10.15,Heike Drechsler,GDR,1987-02-08,,Senftenberg,GDR,Female,Indoor,False,Sprint,1980s,37.0
+100 m,11.15,Marita Koch,GDR,1980-01-12,,East Berlin,GDR,Female,Indoor,False,Sprint,1980s,44.0
+300 y,32.63,Merlene Ottey,JAM,1982-03-13,,Cedar Falls,USA,Female,Indoor,False,Sprint,1980s,42.0
+300 m,35.45,Irina Privalova,RUS,1993-01-17,,Moscow,RUS,Female,Indoor,False,Sprint,1990s,31.0
+300 m,35.45,Shaunae Miller-Uibo,BAH,2018-02-03,Millrose Games,New York City,USA,Female,Indoor,False,Sprint,2010s,6.0
+500 y,1:00.61,Jearl Miles-Clark,USA,2000-02-19,,Pocatello,USA,Female,Indoor,False,Sprint,2000s,24.0
+500 m,1:05.63,Femke Bol,NED,2023-02-04,New Balance Indoor Grand Prix,Boston,USA,Female,Indoor,False,Sprint,2020s,1.0
+600 y,1:16.76,Michaela Rose,USA,2024-01-20,Corky Classic,Lubbock,USA,Female,Indoor,False,Middle Distance,2020s,0.0
+600 m,1:23.41,Keely Hodgkinson,GBR,2023-01-28,Manchester World Indoor Tour,Manchester,GBR,Female,Indoor,False,Sprint,2020s,1.0
+1000 y,2:23.5,Joetta Clark,USA,1986-03-09,,Gainesville,USA,Female,Indoor,False,Middle Distance,1980s,38.0
+1600 m,4:11.84,Genzebe Dibaba,ETH,2016-02-17,Globen Galan,Stockholm,SWE,Female,Indoor,False,Middle Distance,2010s,8.0
+2000 m,5:23.75,Genzebe Dibaba,ETH,2017-02-07,Míting Internacional de Catalunya,Sabadell,ESP,Female,Indoor,False,Middle Distance,2010s,7.0
+3200 m,8:57.34,Genzebe Dibaba,ETH,2014-02-15,Aviva Indoor Grand Prix,Birmingham,GBR,Female,Indoor,False,Long Distance,2010s,10.0
+Two miles,9:00.48,Genzebe Dibaba,ETH,2014-02-15,Aviva Indoor Grand Prix,Birmingham,GBR,Female,Indoor,False,Long Distance,2010s,10.0
+"10,000 m",32:44.97,Olga Michurina,RUS,1995-12-23,,Saint Petersburg,RUS,Female,Indoor,False,Long Distance,1990s,28.0
+Marathon,2:40:55,Lindsey Scherf,USA,2018-03-17,The Armory Indoor Marathon,New York City,USA,Female,Indoor,False,Long Distance,2010s,6.0
+55 m hurdles,7.30,Tiffany Lott-Hogan,USA,1997-02-22,,Colorado Springs,USA,Female,Indoor,False,Hurdles,1990s,27.0
+100 m hurdles,12.64,Ludmila Engquist,SWE,1997-02-10,,Tampere,FIN,Female,Indoor,False,Hurdles,1990s,27.0
+300 m hurdles,40.09,Stine Tomb,NOR,2011-02-05,Finland-Sweden-Norway Indoor Match,Tampere,FIN,Female,Indoor,False,Hurdles,2010s,13.0
+400 m hurdles,56.41,Sheena Tosta,USA,2011-02-12,Meeting National,Val-de-Reuil,FRA,Female,Indoor,False,Hurdles,2010s,13.0
+2000 m steeplechase,5:47.79,Maruša Mišmaš,SLO,2020-02-19,Meeting Hauts de France Pas de Calais,Liévin,FRA,Female,Indoor,False,Middle Distance,2020s,4.0
+3000 m steeplechase,9:07.00,Tatyana Petrova,RUS,2006-02-17,,Moscow,RUS,Female,Indoor,False,Long Distance,2000s,18.0
+3000 m steeplechase,9:54.20,Marcela Lustigova,CZE,2010-02-11,Botnia Games,Korsholm,FIN,Female,Indoor,False,Long Distance,2010s,14.0
+Discus throw,65.23 m,Shanice Craft,GER,2023-02-10,ISTAF Indoor,Berlin,GER,Female,Indoor,False,Throwing,2020s,1.0
+Weight throw,26.02 m,Deanna Price,USA,2023-02-17,USA Championships,Albuquerque,USA,Female,Indoor,False,Throwing,2020s,1.0
+Javelin throw,57.75 m,Anna Wessman,SWE,2012-03-10,World Indoor Throwing,Växjö,SWE,Female,Indoor,False,Throwing,2010s,12.0
+Javelin throw,61.29 m,Taina Uppa,FIN,1999-02-28,,Korsholm,FIN,Female,Indoor,False,Throwing,1990s,25.0
+Mile walk,6:16.72,Sada Eidikytė,URS,1990-02-24,,Kaunas,URS,Female,Indoor,False,Walking,1990s,34.0
+Two miles walk,13:11.88,Ileana Salvador,ITA,1990-02-14,,Genoa,ITA,Female,Indoor,False,Walking,1990s,34.0
+5000 m walk,20:10.30,Vera Sokolova,RUS,2010-12-30,Mordovian Indoor Championships,Saransk,RUS,Female,Indoor,False,Walking,2010s,13.0
+"10,000 m walk",43:54.63,Yelena Ginko,BLR,2008-02-22,Belarusian Championships,Mogilev,BLR,Female,Indoor,False,Walking,2000s,16.0
+4 × 100 m relay,44.39,"Anne-Kathrin Elbe, Anne Möllinger, Cathleen Tschirch, Marion Wagner",GER,2010-01-31,BW-Bank Meeting,Karlsruhe,GER,Female,Indoor,False,Relay,2010s,14.0
+Sprint medley relay,3:45.90,"Joetta Clark Diggs, Wendy Vereen, Kim Batten, Jearl Miles Clark",USA,1993-03-14,World Indoor Championships,Toronto,CAN,Female,Indoor,False,Relay,1990s,31.0
+Distance medley relay,10:33.85,"Heather McLean, Kendall Ellis, Roisin Willis, Elle Purrier St. Pierre",USA,2022-04-15,,Boston,USA,Female,Indoor,False,Relay,2020s,2.0
