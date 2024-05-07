@@ -1,0 +1,50 @@
+Event,Performance (meters),Athlete,Nationality,Date,Meeting,Location City,Location Country,Gender,Setting,Official,Category
+One hour (track),21330.0,Mo Farah,GBR,2020-09-04,Diamond League,Brussels,BEL,Male,Outdoor,True,Long Distance
+High jump,2.45,Javier Sotomayor,CUB,1993-07-27,Gran Premio Diputación,Salamanca,ESP,Male,Outdoor,True,Jumping
+Pole vault,6.23,Armand Duplantis,SWE,2023-09-17,Prefontaine Classic,Eugene,USA,Male,Outdoor,True,Jumping
+Pole vault,6.24,Armand Duplantis,SWE,2024-04-20,Xiamen Diamond League,Xiamen,CHN,Male,Outdoor,True,Jumping
+Long jump,8.95,Mike Powell,USA,1991-08-30,World Championships,Tokyo,JPN,Male,Outdoor,True,Jumping
+Triple jump,18.29,Jonathan Edwards,GBR,1995-08-07,World Championships,Gothenburg,SWE,Male,Outdoor,True,Jumping
+Shot put,23.56,Ryan Crouser,USA,2023-05-27,USATF LA Grand Prix,Los Angeles,USA,Male,Outdoor,True,Throwing
+Discus throw,74.08,Jürgen Schult,GDR,1986-06-06,,Neubrandenburg,GDR,Male,Outdoor,True,Throwing
+Discus throw,74.35,Mykolas Alekna,LTU,2024-04-14,Oklahoma Throws Series,Ramona,USA,Male,Outdoor,True,Throwing
+Hammer throw,86.74,Yuriy Sedykh,URS,1986-08-30,European Championships,Stuttgart,FRG,Male,Outdoor,True,Throwing
+Javelin throw,98.48,Jan Železný,CZE,1996-05-25,,Jena,GER,Male,Outdoor,True,Throwing
+2 hours walk (track),29572.0,Maurizio Damilano,ITA,1992-10-03,,Cuneo,ITA,Male,Outdoor,True,Walking
+One hour (track),18930.0,Sifan Hassan,NED,2020-09-04,Diamond League,Brussels,BEL,Female,Outdoor,True,Long Distance
+High jump,2.09,Stefka Kostadinova,BUL,1987-08-30,World Championships,Rome,ITA,Female,Outdoor,True,Jumping
+Pole vault,5.06,Yelena Isinbayeva,RUS,2009-08-28,Weltklasse Zürich,Zürich,SUI,Female,Outdoor,True,Jumping
+Long jump,7.52,Galina Chistyakova,URS,1988-06-11,Brothers Znamensky Memorial,Leningrad,URS,Female,Outdoor,True,Jumping
+Triple jump,15.74,Yulimar Rojas,VEN,2022-03-20,World Championships,Belgrade,SRB,Female,Outdoor,True,Jumping
+Shot put,22.63,Natalya Lisovskaya,URS,1987-06-07,Brothers Znamensky Memorial,Moscow,URS,Female,Outdoor,True,Throwing
+Discus throw,76.8,Gabriele Reinsch,GDR,1988-07-09,,Neubrandenburg,GDR,Female,Outdoor,True,Throwing
+Hammer throw,82.98,Anita Włodarczyk,POL,2016-08-28,Kamila Skolimowska Memorial,Warsaw,POL,Female,Outdoor,True,Throwing
+Javelin throw,72.28,Barbora Špotáková,CZE,2008-09-13,World Athletics Final,Stuttgart,GER,Female,Outdoor,True,Throwing
+High jump,2.43,Javier Sotomayor,CUB,1989-03-04,World Championships,Budapest,HUN,Male,Indoor,True,Jumping
+Pole vault,6.22,Armand Duplantis,SWE,2023-02-25,All Star Perche,Clermont-Ferrand,FRA,Male,Indoor,True,Jumping
+Long jump,8.79,Carl Lewis,USA,1984-01-27,Millrose Games,New York City,USA,Male,Indoor,True,Jumping
+Triple jump,18.07,Hugues Fabrice Zango,BUR,2021-01-16,,Aubière,FRA,Male,Indoor,True,Jumping
+Shot put,22.82,Ryan Crouser,USA,2021-01-24,American Track League,Fayetteville,USA,Male,Indoor,True,Throwing
+High jump,2.08,Kajsa Bergqvist,SWE,2006-02-04,Hochsprung mit Musik,Arnstadt,GER,Female,Indoor,True,Jumping
+Pole vault,5.03,Jenn Suhr,USA,2016-01-30,Golden Eagle Multi and Invitational,Brockport,USA,Female,Indoor,True,Jumping
+Pole vault,5.02,Jenn Suhr,USA,2013-03-02,USA Championships,Albuquerque,USA,Female,Indoor,True,Jumping
+Long jump,7.37,Heike Drechsler,GDR,1988-02-13,,Vienna,AUT,Female,Indoor,True,Jumping
+Triple jump,15.74,Yulimar Rojas,VEN,2022-03-20,World Championships,Belgrade,SRB,Female,Indoor,True,Jumping
+Shot put,22.5,Helena Fibingerová,TCH,1977-02-19,,Jablonec,TCH,Female,Indoor,True,Throwing
+12-hour run (track),170309.0,Aleksandr Sorokin,LTU,2021-04-24,Centurion Running Track 100 Mile,Ashford,UK,Male,Outdoor,False,Long Distance
+12-hour run (road),177410.0,Aleksandr Sorokin,LTU,2022-01-06,Spartanion Race,Tel Aviv,ISR,Male,Outdoor,False,Long Distance
+24-hour run (road),319614.0,Aleksandr Sorokin,LTU,2022-09-18,IAU 24 Hour European Championships,Verona,ITA,Male,Outdoor,False,Long Distance
+Standing long jump,3.73,Byron Jones,USA,2015-02-23,NFL Scouting Combine,Indianapolis,USA,Male,Outdoor,False,Jumping
+Standing triple jump,10.95,Tydree Lewis,USA,2011-10-31,,,,Male,Outdoor,False,Jumping
+Weight throw,25.41,Lance Deal,USA,1993-02-20,,Azusa,USA,Male,Outdoor,False,Throwing
+12-hour run (track),149130.0,Camille Herron,USA,2017-12-09,Desert Solstice Track Invitational,Phoenix,USA,Female,Outdoor,False,Long Distance
+12-hour run (road),152633.0,Dominika Stelmach,POL,2023-01-05,Spartanion Race,Tel Aviv,ISR,Female,Outdoor,False,Long Distance
+24-hour run (road),270116.0,Camille Herron,USA,2019-10-26,IAU 24 Hour World Championship,Albi,FRA,Female,Outdoor,False,Long Distance
+48-hour run (road),435366.0,Camille Herron,USA,2023-03-25,Sri Chinmoy 48 Hour Festival,Bruce,AUS,Female,Outdoor,False,Long Distance
+Discus throw,69.51,Gerd Kanter,EST,2009-03-22,World Record Indoor Challenge,Växjö,SWE,Male,Indoor,False,Throwing
+Weight throw,26.35,Daniel Haugh,USA,2024-02-16,USA Championships,Albuquerque,USA,Male,Indoor,False,Throwing
+Javelin throw,85.78,Matti Närhi,FIN,1996-03-03,,Kajaani,FIN,Male,Indoor,False,Throwing
+Discus throw,65.23,Shanice Craft,GER,2023-02-10,ISTAF Indoor,Berlin,GER,Female,Indoor,False,Throwing
+Weight throw,26.02,Deanna Price,USA,2023-02-17,USA Championships,Albuquerque,USA,Female,Indoor,False,Throwing
+Javelin throw,57.75,Anna Wessman,SWE,2012-03-10,World Indoor Throwing,Växjö,SWE,Female,Indoor,False,Throwing
+Javelin throw,61.29,Taina Uppa,FIN,1999-02-28,,Korsholm,FIN,Female,Indoor,False,Throwing
