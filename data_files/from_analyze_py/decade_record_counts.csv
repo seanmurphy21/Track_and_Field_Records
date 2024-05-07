@@ -1,0 +1,89 @@
+Category,Gender,Decade,Record_Count
+Hurdles,Female,1980s,1
+Hurdles,Female,1990s,5
+Hurdles,Female,2000s,2
+Hurdles,Female,2010s,5
+Hurdles,Female,2020s,7
+Hurdles,Male,1960s,2
+Hurdles,Male,1970s,3
+Hurdles,Male,1980s,3
+Hurdles,Male,1990s,2
+Hurdles,Male,2010s,6
+Hurdles,Male,2020s,5
+Jumping,Female,1980s,3
+Jumping,Female,2000s,2
+Jumping,Female,2010s,2
+Jumping,Female,2020s,2
+Jumping,Male,1980s,2
+Jumping,Male,1990s,3
+Jumping,Male,2010s,2
+Jumping,Male,2020s,4
+Long Distance,Female,1990s,2
+Long Distance,Female,2000s,7
+Long Distance,Female,2010s,22
+Long Distance,Female,2020s,28
+Long Distance,Male,1900s,1
+Long Distance,Male,1930s,1
+Long Distance,Male,1980s,1
+Long Distance,Male,1990s,1
+Long Distance,Male,2000s,2
+Long Distance,Male,2010s,4
+Long Distance,Male,2020s,30
+Middle Distance,Female,1980s,2
+Middle Distance,Female,1990s,2
+Middle Distance,Female,2000s,1
+Middle Distance,Female,2010s,3
+Middle Distance,Female,2020s,9
+Middle Distance,Male,1900s,2
+Middle Distance,Male,1980s,1
+Middle Distance,Male,1990s,5
+Middle Distance,Male,2000s,1
+Middle Distance,Male,2010s,6
+Middle Distance,Male,2020s,6
+Multisport Events,Female,1980s,1
+Multisport Events,Female,2000s,2
+Multisport Events,Female,2020s,1
+Multisport Events,Male,2010s,3
+Relay,Female,1980s,3
+Relay,Female,1990s,4
+Relay,Female,2000s,4
+Relay,Female,2010s,5
+Relay,Female,2020s,5
+Relay,Male,1960s,1
+Relay,Male,1980s,2
+Relay,Male,1990s,3
+Relay,Male,2000s,3
+Relay,Male,2010s,10
+Relay,Male,2020s,2
+Sprint,Female,1980s,12
+Sprint,Female,1990s,6
+Sprint,Female,2000s,1
+Sprint,Female,2010s,6
+Sprint,Female,2020s,8
+Sprint,Male,1960s,3
+Sprint,Male,1970s,18
+Sprint,Male,1980s,5
+Sprint,Male,1990s,7
+Sprint,Male,2000s,7
+Sprint,Male,2010s,11
+Sprint,Male,2020s,4
+Throwing,Female,1970s,1
+Throwing,Female,1980s,2
+Throwing,Female,1990s,1
+Throwing,Female,2000s,1
+Throwing,Female,2010s,2
+Throwing,Female,2020s,2
+Throwing,Male,1980s,2
+Throwing,Male,1990s,3
+Throwing,Male,2000s,1
+Throwing,Male,2020s,4
+Walking,Female,1990s,7
+Walking,Female,2000s,4
+Walking,Female,2010s,8
+Walking,Female,2020s,2
+Walking,Male,1970s,1
+Walking,Male,1980s,2
+Walking,Male,1990s,9
+Walking,Male,2000s,3
+Walking,Male,2010s,6
+Walking,Male,2020s,1
